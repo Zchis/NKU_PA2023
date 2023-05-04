@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1683210358 source:e:\codeblocks\mysave\pa040402\main.cpp
+	<pthread.h>
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	<random>
+	<sys/time.h>
+	<semaphore.h>
+	<immintrin.h>
+
