@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1683973181 source:e:\codeblocks\mysave\grobner1\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<ctime>
+	<bitset>
+	<vector>
+	<string>
+	<sstream>
+	<unordered_set>
+	<bitset>
+	<windows.h>
+	<immintrin.h>
+	<pthread.h>
+	<semaphore.h>
+	<mutex>
+	<condition_variable>
+

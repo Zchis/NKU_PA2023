@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1683978563 source:e:\codeblocks\mysave\grobner_omp\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<ctime>
+	<bitset>
+	<vector>
+	<string>
+	<sstream>
+	<unordered_set>
+	<bitset>
+	<windows.h>
+	<omp.h>
+
